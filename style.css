@@ -1,0 +1,23 @@
+body{
+  background-color:#FCEDDA;
+  font-size: 30px;
+  text-align: center;
+  margin: 5% auto;
+  padding: 10px;
+  
+}
+button
+{  
+    background-color:#EE4E34;
+    color: #FCEDDA;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: none;
+    font-size: 40px;
+    border-radius: 7px;
+    transition: transform 0.3s ease;
+}
+button:hover
+{
+  transform: scale(0.9);
+}
